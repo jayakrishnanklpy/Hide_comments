@@ -1,2 +1,2 @@
 #! /bin/bash
-egrep -v "^#" $1
+egrep -v "^#|;" $1
